@@ -30,6 +30,6 @@ The score is displayed at the end based on the rounds won.
 - **Score Tracking**:  Keeps track of the number of rounds the user wins.
 
 ## How to Access
-You can explore the portfolio by cloning the repository:
+You can explore the game by cloning the repository:
 ```bash
 gh repo clone GaneshKantle/Number-Game
