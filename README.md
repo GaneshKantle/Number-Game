@@ -17,14 +17,14 @@ The score is displayed at the end based on the rounds won.
 ## Features:
 
 
-Random Number Generation:  A random number between 1 and a specified range (default 1-100).
+- **Random Number Generation**: A random number between 1 and a specified range (default 1-100).
 
-User Input:  Prompts the user to enter a guess.
+- **User Input**:  Prompts the user to enter a guess.
 
-Feedback:  Tells the user whether their guess is too high or too low.
+- **Feedback**:  Tells the user whether their guess is too high or too low.
 
-Attempt Limit:  Limits the number of guesses (default is 5 attempts).
+- **Attempt Limit**:  Limits the number of guesses (default is 5 attempts).
 
-Multiple Rounds:  Ask the user if they want to play again after each round.
+- **Multiple Rounds**:  Ask the user if they want to play again after each round.
 
-Score Tracking:  Keeps track of the number of rounds the user wins.
+- **Score Tracking**:  Keeps track of the number of rounds the user wins.
