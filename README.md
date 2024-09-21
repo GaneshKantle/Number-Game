@@ -1,6 +1,6 @@
 # NUMBER GAME
 
-# How the Game Works:
+## How the Game Works:
 
 
 The game generates a random number.
@@ -14,7 +14,7 @@ After each round, the user is asked if they want to play again.
 The score is displayed at the end based on the rounds won.
 
 
-# Features:
+## Features:
 
 
 Random Number Generation:  A random number between 1 and a specified range (default 1-100).
