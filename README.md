@@ -32,4 +32,5 @@ The score is displayed at the end based on the rounds won.
 ## How to Access
 You can explore the game by cloning the repository:
 ```bash
-gh repo clone GaneshKantle/Number-Game
+git clone https://github.com/GaneshKantle/Number-Game
+cd Number-Game
