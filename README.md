@@ -2,7 +2,6 @@
 
 ## How the Game Works:
 
-
 The game generates a random number.
 
 The user has up to 5 attempts to guess the number.
@@ -14,8 +13,15 @@ After each round, the user is asked if they want to play again.
 The score is displayed at the end based on the rounds won.
 
 
+## 📂 Project Structure
+```
+Directory structure:
+└── ganeshkantle-number-game/
+    ├── README.md
+    ├── LICENSE
+    └── code.java
+```
 ## Features:
-
 
 - **Random Number Generation**: A random number between 1 and a specified range (default 1-100).
 
@@ -34,3 +40,10 @@ You can explore the game by cloning the repository:
 ```bash
 git clone https://github.com/GaneshKantle/Number-Game
 cd Number-Game
+
+
+## 📬 Contact
+For any queries, feel free to reach out:
+- **Email:** ganeshkantle@gmail.com
+- **GitHub:** (https://github.com/ganeshkantle)
+- **My Bento:** (https://bento.me/kantle)
