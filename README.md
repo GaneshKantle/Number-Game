@@ -40,7 +40,7 @@ You can explore the game by cloning the repository:
 ```bash
 git clone https://github.com/GaneshKantle/Number-Game
 cd Number-Game
-
+```
 
 ## 📬 Contact
 For any queries, feel free to reach out:
