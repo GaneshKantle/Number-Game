@@ -19,7 +19,7 @@ Directory structure:
 └── ganeshkantle-number-game/
     ├── README.md
     ├── LICENSE
-    └── code.java
+    └── sourcecode.java
 ```
 ## Features:
 
@@ -35,12 +35,22 @@ Directory structure:
 
 - **Score Tracking**:  Keeps track of the number of rounds the user wins.
 
-## How to Access
-You can explore the game by cloning the repository:
-```bash
-git clone https://github.com/GaneshKantle/Number-Game
-cd Number-Game
-```
+## 📦 How to Run
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/GaneshKantle/Number-Game.git
+   cd Number-Game
+   
+2. File Name to save:
+   ```
+   GuessTheNumberGame.java
+   
+3. Compile and Run:
+   ```
+   javac sourcecode.java
+   java GuessTheNumberGame
+
 
 ## 📬 Contact
 For any queries, feel free to reach out:
